@@ -62,7 +62,3 @@ The dataset contains restaurant transaction records including:
 - Improve customer engagement through targeted offers.
 - Expand operations in high-performing locations.
 
-
-
-## 🚀 Author
-**Aditi Verma**
